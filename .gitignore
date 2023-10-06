@@ -11,7 +11,7 @@ logs
 .idea
 *.iml
 *.ipr
-*.iws
+*.i
 *.class
 *.log
 
